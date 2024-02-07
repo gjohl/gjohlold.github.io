@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Home",
     "section": "",
-    "text": "About this blog"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nFast AI Notes\n\n\n\n\n\n\nAI\n\n\n\nNotes from Fast AI Practical Deep Learning for Coders Part 1\n\n\n\n\n\nAug 30, 2023\n\n\n20 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html",
@@ -12,20 +12,6 @@
     "title": "Projects",
     "section": "",
     "text": "Projects"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
-    "section": "",
-    "text": "Data science, AI and software projects."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Home",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nFast AI Notes\n\n\n\n\n\n\nAI\n\n\n\nNotes from Fast AI Practical Deep Learning for Coders Part 1\n\n\n\n\n\nAug 30, 2023\n\n\n20 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/fastai/index.html",
@@ -84,10 +70,10 @@
     "text": "Bagging predictors https://link.springer.com/article/10.1007/BF00058655\nStatistical Modeling: The Two Cultures https://www.semanticscholar.org/paper/Statistical-Modeling%3A-The-Two-Cultures-(with-and-a-Breiman/e5df6bc6da5653ad98e754b08f63326c2e52b372\nComparison of vision models https://www.kaggle.com/code/jhoward/the-best-vision-models-for-fine-tuning"
   },
   {
-    "objectID": "posts/fastai/index.html#collaborative-filtering",
-    "href": "posts/fastai/index.html#collaborative-filtering",
-    "title": "Fast AI Notes",
-    "section": "7. Collaborative filtering",
-    "text": "7. Collaborative filtering"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "Data science, AI and software projects."
   }
 ]
