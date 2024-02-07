@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpg
+image: assets/GJProfilePic.jpeg
 about:
   template: jolla
   links:
@@ -16,4 +16,4 @@ about:
 
 ---
 
-About this blog
+Data science, AI and software projects.
